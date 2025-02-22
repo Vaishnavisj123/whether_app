@@ -28,9 +28,9 @@ A **Streamlit-based Weather Application** that provides real-time weather update
 - OpenWeather API key (Sign up at [OpenWeather](https://home.openweathermap.org/api_keys))
 
 # steps:
--1)Install Required Packages
+- 1)Install Required Packages
 - pip install streamlit requests matplotlib plotly pandas
--2) Set Up Your OpenWeather API Key
+- 2) Set Up Your OpenWeather API Key
 - API_KEY = "your_openweather_api_key"
 - 3) Run the Application
 - streamlit run weather_.py
